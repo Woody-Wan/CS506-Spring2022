@@ -1,3 +1,3 @@
-def add(x, y):
-    res = x + y
+def sub(x, y):
+    res = x - y
     return res
