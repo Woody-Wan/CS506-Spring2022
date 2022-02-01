@@ -2,7 +2,7 @@
 
 ### Purpose
 
-With SSH authentication you don't need to enter your credentials (GitHub username and password each time you push a commit to the remote).  You can skip this step for now and complete it later after the course.  
+With SSH authentication you don't need to enter your credentials (GitHub username and password each time you push a commit to the remote).  You can skip this step for now and complete it later after the lab.  
 
 #### This is your checklist
 
