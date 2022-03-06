@@ -176,7 +176,7 @@ undo what you just did and try the next command.
 ## Step 7: Finishing up
 
 When you have completed all of the above, create a pull request on the repository
-where your fork of this exercise is (you should have cloned it for exercise 1 and
+where your fork of this exercise is (you should have cloned it for exercise 
 2). This pull request should include the line "finished exercise 3" to the end of
 the .txt file you pushed in the earlier exercises. This will let us know that
 you have completed all of the exercises.
